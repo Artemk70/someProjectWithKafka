@@ -1,6 +1,5 @@
-package com.aplication.someprojectwithkafka.entity;
+package com.application.kafkaconsumer.entity;
 
-import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
